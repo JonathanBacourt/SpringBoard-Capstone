@@ -1,0 +1,9 @@
+Once user enters site they will be given an option between 2 buttons Find by IP address and City look up:
+
+- If city look up is selected user will be able to input city name and from there be able to see crime rate of the city
+- If Find by IP address they will be given an input field to enter the IP address and it will then show the city name and the crime rate of that city
+    There will also be an option in the upper right hand corner allowing the user to sign in which will populate a google sign in popup
+
+There will also be a sign in and sign up option in the upper right hand corner
+- sign in will have a google authentication popup appear that allows users to sign in using gmail
+- sign up will have them authenticate through google then enter in a username they want to be referred to as in the application
